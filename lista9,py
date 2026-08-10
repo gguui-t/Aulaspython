@@ -1,0 +1,11 @@
+produtos_loja1 = ['mouse','teclado','monitor','memoria']
+print(produtos_loja1)
+
+produtos_loja2 = ['tablet','notebook','filtro de linha','impressora']
+print(produtos_loja2)
+
+
+produtos_loja1.extend(produtos_loja2)
+produtos_loja_geral = produtos_loja1 + produtos_loja2
+
+print(produtos_loja_geral)
