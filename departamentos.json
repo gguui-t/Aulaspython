@@ -1,0 +1,23 @@
+[
+    {
+        "id_departamento":1,
+        "nome_departamento":"Secretaria de Obras e Iluminacao",
+        "area":"Infraestrutura",
+        "responsavel":"Roberto Mendes",
+        "orcamento_mensal":150000.0
+    },
+    {
+        "id_departamento":2,
+        "nome_departamento":"Secretaria de Servicos Urbanos",
+        "area":"Manutencao",
+        "responsavel":"Clara Costa",
+        "orcamento_mensal":95000.0
+    },
+    {
+        "id_departamento":3,
+        "nome_departamento":"Secretaria de Saude",
+        "area":"Saude Publica",
+        "responsavel":"Dra. Helena Ramos",
+        "orcamento_mensal":300000.0
+    }
+]

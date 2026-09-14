@@ -1,0 +1,9 @@
+id_solicitacao;id_cidadao;id_departamento;tipo_solicitacao;data_solicitacao
+1001;101;1;Troca de Lampada;2025-03-10
+1002;102;2;Tapa Buraco;2025-03-12
+1003;103;1;Poda de Arvore;2025-03-15
+1004;104;3;Consulta Medica;2025-03-18
+1005;105;2;Limpeza de Bueros;2025-03-20
+1006;106;1;Reparo de Semaforo;2025-03-22
+1007;107;3;Agendamento Vacina;2025-03-25
+1008;108;2;Coleta de Entulho;2025-03-28

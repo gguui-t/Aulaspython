@@ -1,0 +1,107 @@
+[
+  {
+    "id_atendimento": 1,
+    "id_solicitacao": 1,
+    "status": "Concluído",
+    "data_atendimento": "2024-04-15",
+    "tempo_resposta_dias": 13
+  },
+  {
+    "id_atendimento": 2,
+    "id_solicitacao": 2,
+    "status": "Concluído",
+    "data_atendimento": "2024-05-28",
+    "tempo_resposta_dias": 18
+  },
+  {
+    "id_atendimento": 3,
+    "id_solicitacao": 3,
+    "status": "Concluído",
+    "data_atendimento": "2024-05-05",
+    "tempo_resposta_dias": 15
+  },
+  {
+    "id_atendimento": 4,
+    "id_solicitacao": 4,
+    "status": "em andamento",
+    "data_atendimento": "2024-06-10",
+    "tempo_resposta_dias": 9
+  },
+  {
+    "id_atendimento": 5,
+    "id_solicitacao": 5,
+    "status": "Concluído",
+    "data_atendimento": "2024-08-02",
+    "tempo_resposta_dias": 18
+  },
+  {
+    "id_atendimento": 6,
+    "id_solicitacao": 6,
+    "status": "pendente",
+    "data_atendimento": "2024-07-01",
+    "tempo_resposta_dias": 13
+  },
+  {
+    "id_atendimento": 7,
+    "id_solicitacao": 7,
+    "status": "Concluído",
+    "data_atendimento": "2024-07-22",
+    "tempo_resposta_dias": 19
+  },
+  {
+    "id_atendimento": 8,
+    "id_solicitacao": 8,
+    "status": "Concluído",
+    "data_atendimento": "2024-08-30",
+    "tempo_resposta_dias": 18
+  },
+  {
+    "id_atendimento": 9,
+    "id_solicitacao": 9,
+    "status": "em andamento",
+    "data_atendimento": "2024-09-18",
+    "tempo_resposta_dias": 13
+  },
+  {
+    "id_atendimento": 10,
+    "id_solicitacao": 10,
+    "status": "Concluído",
+    "data_atendimento": "2024-09-10",
+    "tempo_resposta_dias": 13
+  },
+  {
+    "id_atendimento": 11,
+    "id_solicitacao": 11,
+    "status": "pendente",
+    "data_atendimento": "2024-10-05",
+    "tempo_resposta_dias": 15
+  },
+  {
+    "id_atendimento": 12,
+    "id_solicitacao": 12,
+    "status": "Concluído",
+    "data_atendimento": "2024-10-25",
+    "tempo_resposta_dias": 17
+  },
+  {
+    "id_atendimento": 13,
+    "id_solicitacao": 13,
+    "status": "em andamento",
+    "data_atendimento": "2024-11-08",
+    "tempo_resposta_dias": 14
+  },
+  {
+    "id_atendimento": 14,
+    "id_solicitacao": 14,
+    "status": "Concluído",
+    "data_atendimento": "2024-12-20",
+    "tempo_resposta_dias": 17
+  },
+  {
+    "id_atendimento": 15,
+    "id_solicitacao": 16,
+    "status": "pendente",
+    "data_atendimento": "2025-02-14",
+    "tempo_resposta_dias": 13
+  }
+]

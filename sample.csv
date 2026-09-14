@@ -1,0 +1,11 @@
+id,produto,categoria,preco,estoque
+1,Notebook Dell,Eletrônicos,3500.00,12
+2,Mouse Logitech,Eletrônicos,89.90,50
+3,Cadeira Gamer,Móveis,899.00,8
+4,Monitor LG 24pol,Eletrônicos,750.00,15
+5,Teclado Mecânico,Eletrônicos,320.00,22
+6,Mesa de Escritório,Móveis,450.00,10
+7,Headset HyperX,Eletrônicos,299.90,18
+8,Webcam Logitech,Eletrônicos,199.90,25
+9,Luminária LED,Casa,79.90,40
+10,Suporte Notebook,Casa,120.00,30

@@ -1,0 +1,11 @@
+id;nome;idade;cidade
+1;Ana Silva;28;São Paulo
+2;Bruno Costa;34;Rio de Janeiro
+3;Carla Souza;22;Belo Horizonte
+4;Diego Alves;45;Curitiba
+5;Elaine Rocha;31;Porto Alegre
+6;Felipe Lima;27;Salvador
+7;Gabriela Dias;39;Recife
+8;Hugo Martins;29;Fortaleza
+9;Isabela Nunes;33;Brasília
+10;João Pereira;41;Manaus
